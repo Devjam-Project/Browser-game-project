@@ -15,6 +15,6 @@ We propose to build a website that will host free legacy games and players can p
 ![Signup page](/screenshot/signup.jpg)
 2.Now the player will be redirected to the home page of the website where he can play any one of the available games at a time.
 
-![Website page](/screenshot/website.jpg)
+![Website page](/screenshot/website1.jpg)
 
 3.Now the player can chose to play any game and its score will be saved in the database and will be displayed on the leaderboard.
